@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Fruit growing application</string>
+
+
+    <string-array name="health_options">
+        <item>not rated</item>
+        <item>dried</item>
+        <item>diseased</item>
+        <item>attacked by pests</item>
+        <item>small damage</item>
+        <item>healthy</item>
+    </string-array>
+
+    <string-array name="yield_options">
+        <item>not rated</item>
+        <item>nothing</item>
+        <item>bad</item>
+        <item>good</item>
+        <item>very good</item>
+        <item>excellent</item>
+    </string-array>
+
+    <string-array name="size_options">
+        <item>not rated</item>
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+    </string-array>
+
+    <string-array name="growth_options">
+        <item>not rated</item>
+        <item>nothing</item>
+        <item>bad</item>
+        <item>good</item>
+        <item>very good</item>
+        <item>excellent</item>
+    </string-array>
+
+    <string name="message_for_invalid_data">You did not enter valid data for columns and rows</string>
+    <string name="title_for_orchard_data_entry_dialog">Data entry for the orchard</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="title_for_change_orchard_name_dialog">Change the name of the orchard</string>
+    <string name="change">Change</string>
+    <string name="message_for_empty_name">You did not enter valid name</string>
+    <string name="message_for_existing_name">Name already exists</string>
+
+    <string name="message_for_denied_permission">Permission denied!</string>
+
+    <string name="title_for_deleting_tree_dialog">Deleting tree</string>
+    <string name="message_for_deleting_tree">Are you sure you want to delete that tree?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="title_for_deleting_orchard">Deleting orchard</string>
+    <string name="message_for_deleting_orchard">Are you sure you want to delete that orchard?</string>
+
+    <string name="title_for_deleting_picture">Deleting picture</string>
+    <string name="message_for_deleting_picture">Are you sure you want to delete that picture?</string>
+
+    <string name="message_for_denied_action">Action denied, no permission!</string>
+
+    <string name="title_for_tree_data_dialog">Tree data</string>
+    <string name="unnamed">Unnamed</string>
+    <string name="none">none</string>
+    <string name="title_for_types_varieties_and_rootstocks">Types, varieties and rootstocks:</string>
+    <string name="title_for_planting_dates">Planting dates:</string>
+    <string name="title_for_tree_health">Tree health:</string>
+    <string name="title_for_tree_yield">Tree yield:</string>
+    <string name="title_for_tree_size">Tree size:</string>
+    <string name="title_for_tree_growth">Tree growth:</string>
+    <string name="title_for_tree_replace">Trees for replace:</string>
+    <string name="message_for_wrong_date_entry">Wrong date entry! Date will not be stored.</string>
+
+    <string name="navigation_draw_open">open navigation drawer</string>
+    <string name="navigation_draw_close">close navigation drawer</string>
+
+    <string name="english">English</string>
+    <string name="croatian">Croatian</string>
+    <string name="title_for_change_language_dialog">Choose language</string>
+
+    <string name="Close">Close</string>
+
+    <string name="manage_trees">Manage Trees</string>
+    <string name="edit_orchard">Edit orchard</string>
+    <string name="statistics">Statistics</string>
+    <string name="choosing_orchards">Choosing orchards</string>
+    <string name="about_the_application"><font color="#59B87F">About the application</font></string>
+    <string name="info">Info</string>
+    <string name="et_field_name"><font size="14">enter the name of the orchard</font></string>
+    <string name="create">Create</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="delete">Delete</string>
+    <string name="add">Add</string>
+    <string name="number_of_rows">Number of rows</string>
+    <string name="number_of_columns">Number of columns</string>
+    <string name="orchard_name">Orchard name</string>
+    <string name="tree_gallery">Tree gallery</string>
+    <string name="type">Type:</string>
+    <string name="et_fruit_type">Enter the fruit type</string>
+    <string name="variety">Variety:</string>
+    <string name="et_fruit_variety">Enter the fruit variety</string>
+    <string name="rootstock">Rootstock:</string>
+    <string name="planting_date">Planting date:</string>
+    <string name="health">Health</string>
+    <string name="yield">Yield</string>
+    <string name="size">Size</string>
+    <string name="growth">Growth</string>
+    <string name="is_it_for_replacement">Is it for replacement:</string>
+    <string name="notes">Notes</string>
+    <string name="title_statistics">Select tree data to display:</string>
+    <string name="statistics_type_variety_and_rootstock">Type, variety and rootstock</string>
+    <string name="statistics_planting_date">Planting date</string>
+    <string name="statistics_for_replacement">For replacement</string>
+    <string name="show_results">Show results</string>
+    <string name="version">version</string>
+    <string name="application_description">The application is used to monitor and manage the necessary data of each tree of an individual orchard.</string>
+    <string name="application_created">Created by Stjepan Kekelić for bachelor\'s thesis.</string>
+
+
+</resources>

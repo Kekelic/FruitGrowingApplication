@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fruit growing application</string>
+
+    <string-array name="health_options">
+        <item>ne ocijenjeno</item>
+        <item>suho</item>
+        <item>bolesno</item>
+        <item>napadnuto štetočinama</item>
+        <item>malo oštećenje</item>
+        <item>zdravo</item>
+    </string-array>
+
+    <string-array name="yield_options">
+        <item>ne ocijenjeno</item>
+        <item>ništa</item>
+        <item>loš</item>
+        <item>dobar</item>
+        <item>vrlo dobar</item>
+        <item>izvrstan</item>
+    </string-array>
+
+    <string-array name="size_options">
+        <item>ne ocjenjeno</item>
+        <item>malo</item>
+        <item>srednje</item>
+        <item>veliko</item>
+    </string-array>
+
+    <string-array name="growth_options">
+        <item>ne ocijenjeno</item>
+        <item>ništa</item>
+        <item>loš</item>
+        <item>dobar</item>
+        <item>vrlo dobar</item>
+        <item>izvrstan</item>
+    </string-array>
+
+    <string name="message_for_invalid_data">Niste unijeli valjane podatke za stupce i redove</string>
+    <string name="title_for_orchard_data_entry_dialog">Unos podataka za voćnjak</string>
+    <string name="ok">U redu</string>
+    <string name="cancel">Otkaži</string>
+
+    <string name="title_for_change_orchard_name_dialog">Promijeni ime voćnjaka</string>
+    <string name="change">Promijeni</string>
+    <string name="message_for_empty_name">Niste unijeli valjano ime</string>
+    <string name="message_for_existing_name">Ime već postoji</string>
+
+    <string name="message_for_denied_permission">Dozvola odbijena!</string>
+
+    <string name="title_for_deleting_tree_dialog">Brisanje stabla</string>
+    <string name="message_for_deleting_tree">Jeste li sigurni da želite izbrisati to stablo?</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+
+    <string name="title_for_deleting_orchard">Brisanje voćnjaka</string>
+    <string name="message_for_deleting_orchard">Jeste li sigurni da želite izbrisati taj voćnjak?</string>
+
+    <string name="title_for_deleting_picture">Brisanje slike</string>
+    <string name="message_for_deleting_picture">Jeste li sigurni da želite izbrisati tu sliku?</string>
+
+    <string name="message_for_denied_action">Radnja odbijena, nema dopuštenja!</string>
+
+    <string name="title_for_tree_data_dialog">Podaci o stablu</string>
+    <string name="unnamed">Neimenovano</string>
+    <string name="none">nikakav</string>
+    <string name="title_for_types_varieties_and_rootstocks">Vrste, sorte i podloge:</string>
+    <string name="title_for_planting_dates">Datumi sadnje:</string>
+    <string name="title_for_tree_health">Zdravlje stabla:</string>
+    <string name="title_for_tree_yield">Prinos stabla:</string>
+    <string name="title_for_tree_size">Veličina stabla:</string>
+    <string name="title_for_tree_growth">Rast stabla:</string>
+    <string name="title_for_tree_replace">Stabla za promijenu</string>
+    <string name="message_for_wrong_date_entry">Pogrešan unos datuma! Datum se neće pohraniti.</string>
+
+    <string name="navigation_draw_open">Otvori ladicu za navigaciju</string>
+    <string name="navigation_draw_close">Zatvori ladicu za navigaciju</string>
+
+    <string name="english">Engleski</string>
+    <string name="croatian">Hrvatski</string>
+    <string name="title_for_change_language_dialog">Izaberi jezik</string>
+
+    <string name="Close">Zatvori</string>
+
+    <string name="manage_trees">Upravljanje stablima</string>
+    <string name="edit_orchard">Uredi voćnjak</string>
+    <string name="statistics">Statistika</string>
+    <string name="choosing_orchards">Izabiranje voćnjaka</string>
+    <string name="about_the_application"><font color="#59B87F">O aplikaciji</font></string>
+    <string name="info">Informacije</string>
+    <string name="et_field_name"><font size="14">upišite naziv voćnjaka</font></string>
+    <string name="create">Stvori</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galerija</string>
+    <string name="delete">Obriši</string>
+    <string name="add">Dodaj</string>
+    <string name="number_of_rows">broj redova</string>
+    <string name="number_of_columns">broj stupaca</string>
+    <string name="orchard_name">Ime voćnjaka</string>
+    <string name="tree_gallery">Galerija stabla</string>
+    <string name="type">Vrsta:</string>
+    <string name="et_fruit_type">upišite vrstu voćke</string>
+    <string name="variety">Sorta:</string>
+    <string name="et_fruit_variety">upišite sortu voćke</string>
+    <string name="rootstock">Podloga:</string>
+    <string name="planting_date">Datum sadnje:</string>
+    <string name="health">Zdravlje</string>
+    <string name="yield">Prinos</string>
+    <string name="size">Veličina</string>
+    <string name="growth">Rast</string>
+    <string name="is_it_for_replacement">Je li za zamjenu:</string>
+    <string name="notes">Bilješke</string>
+    <string name="title_statistics">Odaberi podatke za prikaz:</string>
+    <string name="statistics_type_variety_and_rootstock">Vrsta, sorta i podloga</string>
+    <string name="statistics_planting_date">Datum sadnje</string>
+    <string name="statistics_for_replacement">Za zamjenu</string>
+    <string name="show_results">Prikaži rezultate</string>
+    <string name="version">verzija</string>
+    <string name="application_description">Aplikacija služi za praćenje i vođenje potrebnih podataka svakog stabla pojedinog voćnjaka.</string>
+    <string name="application_created">Izradio Stjepan Kekelić za preddiplomski završni rad.</string>
+
+
+</resources>

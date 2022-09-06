@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/manage_trees"
+            android:icon="@drawable/ic_home"
+            android:title="@string/manage_trees" />
+        <item
+            android:id="@+id/edit"
+            android:icon="@drawable/ic_edit"
+            android:title="@string/edit_orchard" />
+        <item
+            android:id="@+id/statistics"
+            android:icon="@drawable/ic_statistics"
+            android:title="@string/statistics" />
+        <item
+            android:id="@+id/choosing_orchard"
+            android:icon="@drawable/ic_choose"
+            android:title="@string/choosing_orchards" />
+    </group>
+
+    <item android:title="@string/about_the_application">
+        <menu>
+            <item
+                android:id="@+id/info"
+                android:icon="@drawable/ic_info"
+                android:title="@string/info" />
+        </menu>
+    </item>
+
+</menu>
